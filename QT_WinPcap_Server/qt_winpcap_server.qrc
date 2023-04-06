@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="QT_WinPcap_Server">
+    </qresource>
+</RCC>

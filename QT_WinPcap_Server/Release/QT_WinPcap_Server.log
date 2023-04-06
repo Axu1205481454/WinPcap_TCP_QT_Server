@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.12.2/5.12.2/msvc2017/bin/qmake)
+  packetHandle.cpp
+  getnics.cpp
+  MainWindow.cpp
+  main.cpp
+d:\lsy\qt_winpcap_server\qt_winpcap_server\getnics.h(2): warning C4005: “WIN32”: 宏重定义 (编译源文件 getnics.cpp)
+  d:\lsy\qt_winpcap_server\qt_winpcap_server\getnics.cpp: note: 参见“WIN32”的前一个定义
+d:\lsy\qt_winpcap_server\qt_winpcap_server\getnics.h(2): warning C4005: “WIN32”: 宏重定义 (编译源文件 MainWindow.cpp)
+  d:\lsy\qt_winpcap_server\qt_winpcap_server\mainwindow.cpp: note: 参见“WIN32”的前一个定义
+  qrc_qt_winpcap_server.cpp
+  moc_MainWindow.cpp
+  moc_packetHandle.cpp
+  QT_WinPcap_Server.vcxproj -> D:\lsy\QT_WinPcap_Server\Release\QT_WinPcap_Server.exe

@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QT_WinPcap_ServerClass</class>
+ <widget class="QWidget" name="QT_WinPcap_ServerClass" >
+  <property name="objectName" >
+   <string notr="true">QT_WinPcap_ServerClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QT_WinPcap_Server</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="qt_winpcap_server.qrc"/>
+ </resources>
+ <connections/>
+</UI>
